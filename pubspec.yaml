@@ -2,7 +2,7 @@ name: bottom_navigation
 description: A new Flutter project.
 
 publish_to: 'itsAnilg'
-
+// nothing
 version: 1.0.0+1
 
 environment:
