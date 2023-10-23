@@ -4,6 +4,7 @@ import 'package:bottom_navigation/shape_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
+  // hello
   runApp(const MyApp());
 }
 
